@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "faculRN",
-    "slug": "faculRN",
+    "name": "app-recursos-nativos",
+    "slug": "app-recursos-nativos",
     "platforms": [
       "ios",
       "android",
